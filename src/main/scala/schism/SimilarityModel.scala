@@ -1,0 +1,5 @@
+package schism
+
+trait SimilarityModel {
+  
+}
